@@ -48,6 +48,8 @@
  - [vuejsradar.com](http://www.vuejsradar.com/) - Vue.js blog and newsletter
  - [nuxtjs.org](https://nuxtjs.org) - Nuxt.js documentation website
  - [binbytes.com](https://www.binbytes.com) - Web & Mobile application development agency website based on Nuxt.js powered by a Laravel backend
+ - [goodwalrus.com](https://www.goodwalrus.com) - UI Inspiration + Resource for building products - statically generated site powered by Nuxt.js and a Laravel API
+
 
 ### Tutorials
 - [A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack](https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs?utm_content=buffer93967&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#demo-repo)
